@@ -9,4 +9,5 @@ to run any of this code at the current time you can clone the repo and open the 
 
 1. - is a basic press the key get a drum beat. 
 2. - a clock! got some cool css in there is as well.
-3. - CSS Variables - !
+3. - CSS Variables - using variables in css and JS to blur among other cool things 
+4. - Array Cardio - practice on some JS basics including map, filter, reduce and a few others.
