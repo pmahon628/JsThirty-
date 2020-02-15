@@ -14,3 +14,4 @@ to run any of this code at the current time you can clone the repo and open the 
 5. - Flex panel - CSS and JS to change the size of a panel when opended
 6. - type ahead - JS predicative text filtering data from a json object.
 7. - Array Cardio - part 2! - included are .find, .some and . .every.
+8. - HTML Canvas - using HSL to create a canvas of colors - somewhat like microsoft paint.
